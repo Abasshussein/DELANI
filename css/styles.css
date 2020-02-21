@@ -1,0 +1,14 @@
+/* body{ */
+    /* background-color: aqua; */
+/* } */
+.heading{
+    text-align: center;
+    padding-top: 650px;
+    background-image: url("../IP3-master/assets/backgrounds/h_img.jpg");
+    text-decoration: white;
+    color: white;
+    background-size: cover;
+}
+.heading p{
+    text-transform: uppercase;
+}
