@@ -3,7 +3,6 @@
 /* } */
 .heading{
     text-align: center;
-    padding-top: 650px;
     background-image: url("../IP3-master/assets/backgrounds/h_img.jpg");
     text-decoration: white;
     color: white;
@@ -11,4 +10,23 @@
 }
 .heading p{
     text-transform: uppercase;
+}
+.b{
+    text-align: center;
+    font-size: 26px;
+}
+.services{
+    text-align: center;
+    font-size: 26px;
+    text-decoration: white;
+    color: white;
+    background-image: url('../IP3-master/assets/backgrounds/s_image.jpg');
+    background-size: cover;
+}
+.heading h1{
+    font-size: 40px;
+}
+.code{
+    text-align: center;
+    font-size: 28px;
 }
