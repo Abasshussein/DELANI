@@ -1,12 +1,16 @@
 /* body{ */
     /* background-color: aqua; */
 /* } */
+*{
+    overflow-x: hidden;
+}*
 .heading{
     text-align: center;
     background-image: url("../IP3-master/assets/backgrounds/h_img.jpg");
     text-decoration: white;
     color: white;
     background-size: cover;
+    font-family: 'Akronim',;
 }
 .heading p{
     text-transform: uppercase;
@@ -14,6 +18,7 @@
 .b{
     text-align: center;
     font-size: 26px;
+    font-family: 'Akronim';
 }
 .services{
     text-align: center;
@@ -22,6 +27,7 @@
     color: white;
     background-image: url('../IP3-master/assets/backgrounds/s_image.jpg');
     background-size: cover;
+    font-family: 'Akronim';
 }
 .heading h1{
     font-size: 40px;
@@ -29,4 +35,46 @@
 .code{
     text-align: center;
     font-size: 28px;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: 'Akronim';
+}
+.mor{
+    text-align: center;
+    font-size: 35px;
+    justify-content: flex-start;
+    font-family: 'Akronim';
+
+}
+.contact{
+    font-size: 35px;
+    text-align: center;
+    background-image: url('../IP3-master/assets/backgrounds/c_image.jpg');
+    /* height:40vh; */
+    text-decoration: white;
+    color: white;
+    background-repeat: no-repeat;
+    font-family: 'Akronim';
+}
+.mor h6{
+    box-sizing: border-box;
+    /* cursor: pointer; */
+    font-family: 'Akronim';
+}
+.code p{
+    cursor: pointer;
+    
+}
+.code p:hover{
+    text-decoration: underline;
+}
+#submit{
+    float: initial;
+    border-radius: 2px;
+}
+#row{
+    display:none;
+}
+.abass{
+    display:none;
 }
