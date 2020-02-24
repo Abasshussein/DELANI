@@ -1,4 +1,4 @@
-# Project name
+# Project name.
 - DELANI STUDIO.
 #### Project Author
 - HUSSEIN ABASS MOHAMED.
