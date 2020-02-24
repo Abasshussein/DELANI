@@ -3,7 +3,7 @@
 #### Project Author
 - HUSSEIN ABASS MOHAMED.
 #### Project Description
-- Its a service and a form to reach out to the website.
+- Its services offered and a form to reach out to the website.
 ## Technoloies used.
 - HTML-Used for coming up with the website structure.
 - CSS-Helped in styling of the structure.
