@@ -12,7 +12,8 @@
 - JAVASCRIPT- We used for dynamics and adding special effects.
 ## BDD
 - ABOUT US:It basically talks about the website.
-- 
+- SERVICES:It entails what services this website offer.
+- WHAT WE DO:This is a section where talks about what we do.
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
