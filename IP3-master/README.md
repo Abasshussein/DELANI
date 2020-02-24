@@ -15,6 +15,7 @@
 - SERVICES:It entails what services this website offer.
 - WHAT WE DO:This is a section where talks about what we do.
 - PORTFOLIO:It shows our logos.
+- CONTACT US:We have a section where you can fill your credentials and leave a message for us.
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
